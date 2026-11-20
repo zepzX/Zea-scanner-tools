@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- FTDI vendor ID (0x0403 / 1027). Product ID is intentionally omitted
+         to cover genuine FT232 variants and common FTDI-based adapters. -->
+    <usb-device vendor-id="1027" />
+</resources>
